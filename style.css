@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(199, 199, 201);
+    font-family: Arial, sans-serif;
+}
+
+.titulo{
+    
+  display: flex;
+  
+  justify-content: center;
+  margin-top: 200px;
+}
+.arquivo{
+    display: flex;
+  
+  justify-content: center;
+}
+
+.botao{
+    display: flex;
+  
+    justify-content: center;
+}
+
